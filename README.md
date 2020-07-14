@@ -1,6 +1,6 @@
 ### Hello Woooorld 👋,
 
-I'm Samuel Allassan FullStack Web developer 
+I'm Samuel Allassan FullStack Web developer passionnate about tech trends and anything related to tech world
 - 🔭 I’m currently working on cloning trello app 
 - 🌱 I’m currently learning Vue.js
 - 👯 I’m looking to collaborate on projects based on Vue.js , Node.js, Php,Laravel
