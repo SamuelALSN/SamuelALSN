@@ -1,4 +1,4 @@
-### Hello Woooorld
+### Hello Woooorld 👋,
 
 I'm Samuel Allassan FullStack Web developer 
 - 🔭 I’m currently working on cloning trello app 
